@@ -1,4 +1,6 @@
-# Eclipse Settings, Key stroke shortcuts
+# Eclipse Settings
+
+## Keyboard Shortcuts
 
 | Action       | Shortcut    |
 | :----------- | :----------- |
