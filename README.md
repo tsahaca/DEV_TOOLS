@@ -1,4 +1,4 @@
-# DEV TOOLS DOCUMENTATION
+# Dev Tools Cheat Sheet
 
 ## [Eclipse](eclipse)
 ## [IntelliJ IDEA](intellij)
