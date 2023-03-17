@@ -1,7 +1,7 @@
 # Eclipse Settings, Key stroke shortcuts
 
-| Action      | Shortcut    |
-| ----------- | ----------- |
+| Action       | Shortcut    |
+| :----------- | :----------- |
 | Go to line  | Ctrl + L    |
-| Paragraph   | Text        |
+| Go to function definition   | Ctrl + Click        |
 
