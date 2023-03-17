@@ -14,4 +14,17 @@
 ```bash
   find . -iname ".svn" -print0 | xargs -0 rm -r
 ```  
-  
+
+## How to untrack a file which was already added to git index
+
+.gitignore will prevent untracked files from being added (without an add -f) to the set of files tracked by Git, however Git will continue to track any files that are already being tracked.
+
+
+.Tasks & commands
+[options="header,footer"]
+|=======================
+|Task    |Commands
+|To stop tracking a file, you need to remove it from the index. This can be achieved with this command   |git rm -f --cached <file>
+|To remove a whole folder, you need to remove all files in it recursively. |git rm -f -r --cached <folder>
+|=======================
+
