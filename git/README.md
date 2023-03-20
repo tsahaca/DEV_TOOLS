@@ -27,4 +27,10 @@ To remove a whole folder, you need to remove all files in it recursively.
 ```bash
 git rm -f -r --cached <folder>
 ```
+## Required Permissions for Personal Access Tokens
+1. repo
+2. workflow
+3. admin:org -> read:org
+4. gist
+5. delete_repo
 
