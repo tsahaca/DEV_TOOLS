@@ -34,6 +34,15 @@ git rm -f -r --cached <folder>
 4. gist
 5. delete_repo
 
-## [Adding a corporate (or self-signed) certificate authority to git.exe’s store](https://learn.microsoft.com/en-us/archive/blogs/phkelley/adding-a-corporate-or-self-signed-certificate-authority-to-git-exes-store)
+## Adding a corporate (or self-signed) certificate authority to git.exe’s store
+```bash
+1. Extract the root certificate as a base64-encoded X.509 CER/PEM file
+2. git config --get http.sslCAInfo
+3. C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+4. copy "C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt" C:\Users\yourname
+5. git config --global http.sslCAInfo C:/Users/yourname/ca-bundle.crt
+6. Add the exported root certificate to the private copy of the store
+```
+[Click here for step by step](https://learn.microsoft.com/en-us/archive/blogs/phkelley/adding-a-corporate-or-self-signed-certificate-authority-to-git-exes-store)
 
 
