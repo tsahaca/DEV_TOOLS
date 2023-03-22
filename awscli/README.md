@@ -10,4 +10,4 @@ aws s3 ls
 4. ![Save](images/aws-root-chain.png)
 5. By default AWS CLI uses /C/Users/UserName/Amazon/AWSCLIV2/awscli/botocore/cacert.pem as trust certificate store
 6. Add the exported certificate from step #2 to /C/Users/UserName/Amazon/AWSCLIV2/awscli/botocore/cacert.pem
-7. export AWS_CA_BUNDLE=/C/Users/<UserName>/Amazon/AWSCLIV2/awscli/botocore/cacert.pem
+7. export AWS_CA_BUNDLE=/C/Users/UserName/Amazon/AWSCLIV2/awscli/botocore/cacert.pem
