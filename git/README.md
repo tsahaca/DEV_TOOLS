@@ -34,3 +34,6 @@ git rm -f -r --cached <folder>
 4. gist
 5. delete_repo
 
+## [Adding a corporate (or self-signed) certificate authority to git.exe’s store](https://learn.microsoft.com/en-us/archive/blogs/phkelley/adding-a-corporate-or-self-signed-certificate-authority-to-git-exes-store)
+
+
