@@ -2,7 +2,7 @@
 
 ## Splunk Cheatsheets
 
-[1](https://benjitrapp.github.io/memories/2022-08-25-Splunk-Cheatsheet/)
+[Der Benji](https://benjitrapp.github.io/memories/2022-08-25-Splunk-Cheatsheet/)
 
 [The ABC’s of Splunk Part Five: Splunk CheatSheet](https://crossrealms.com/cyber-security/the-abcs-of-splunk-part-five-splunk-cheatsheet/)
 
