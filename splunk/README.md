@@ -1,7 +1,7 @@
-# Splunk Cheatsheet:
+# Splunk CheatSheet:
 [Splunk Cheatsheet](https://benjitrapp.github.io/memories/2022-08-25-Splunk-Cheatsheet/)
 
-## Splunk Regex cheatsheet:
+## Splunk Regex CheatSheet:
 These regular expressions are to be used on characters alone, and the possible usage has been explained in the example 
 section on the tabular form below. We will try to be as explanatory as possible to make you understand the usage and 
 also the points that need to be noted with the usage.
