@@ -31,10 +31,8 @@ This section of regular expressions is very specifically dedicated to the Charac
 | [:space:]     | This matches with a tab, or a new line, or a vertical tab, or a space                                                                                                                                    |
 | [:blank:]     | This matches with a space or a tab                                                                                                                                                                       |
 | [:print:]     | This matches with any printable character                                                                                                                                                                |
-| [:punct:]     | This matches with any of the punctuation characters as mentioned here -&nbsp;! ' # S % &amp; ' ( ) * + , - . / : ; &lt; = &gt; ? @ [ / ] ^ _ { | } ~                                                     |
+| [:punct:]     | This matches with any of the punctuation characters as mentioned here -&nbsp;! ' # S % &amp; ' ( ) * + , - . / : ; &lt; = &gt; ? @ [ / ] ^ _ { | } ~                                                    |
 | [:graph:]     | This matches with any character that is defined as a printable character except for those which are defined as part of the space character class                                                         |
 | [:word:]      | This matches with any continuous string of alphanumeric characters and underscores.                                                                                                                      |
 | [:ascii:]     | This matches with any of the ASCII characters, in the range mentioned here: 0-127                                                                                                                        |
-| [:cntrl:]     | 
-This matches with any character that is not part of the character classes as like what are mentioned here&nbsp;[:upper:], [:lower:], [:alpha:], [:digit:], [:punct:], [:graph:], [:print:], [:xdigit:]
- |
+| [:cntrl:]     | This matches with any character that is not part of the character classes as like what are mentioned here&nbsp;[:upper:], [:lower:], [:alpha:], [:digit:], [:punct:], [:graph:], [:print:], [:xdigit:] |
