@@ -13,4 +13,4 @@ TextPad can be used to format, clean text data. The following data segment can b
 4. Conditions = Regular expressions
 5. Click Replace All
 
-![Replace](images/textpad-multiline.png]
+![Replace](images/textpad-multiline.png)
