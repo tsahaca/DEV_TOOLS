@@ -4,7 +4,7 @@
 
 [1](https://benjitrapp.github.io/memories/2022-08-25-Splunk-Cheatsheet/)
 
-[2](https://crossrealms.com/cyber-security/the-abcs-of-splunk-part-five-splunk-cheatsheet/)
+[The ABC’s of Splunk Part Five: Splunk CheatSheet](https://crossrealms.com/cyber-security/the-abcs-of-splunk-part-five-splunk-cheatsheet/)
 
 ## Splunk Regex CheatSheet:
 These regular expressions are to be used on characters alone, and the possible usage has been explained in the example 
