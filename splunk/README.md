@@ -23,3 +23,18 @@ This section of regular expressions is very specifically dedicated to the Charac
 | **Character** | **Meaning**                                                                                                                                                                                            |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [:alpha:]     | This matches with any letter that falls in the range as mentioned here,&nbsp;[A-Za-z]                                                                                                                    |
+| [:upper:]     | This matches with any upper case letters that falls in the range as mentioned here,&nbsp;[A-Z]                                                                                                           |
+| [:lower:]     | This matches with any lower case letters that falls in the range as mentioned here,&nbsp;[a-z]                                                                                                           |
+| [:digit:]     | This matches with any number that falls in the range as mentioned here,&nbsp;[0-9]                                                                                                                       |
+| [:alnum:]     | This matches with any number or letter that falls in the range as mentioned here,&nbsp;[A-Za-z0-9]                                                                                                       |
+| [:xdigit:]    | This matches with any hexadecimal digit that falls in the range as mentioned here,&nbsp;[0-9A-Fa-f]                                                                                                      |
+| [:space:]     | This matches with a tab, or a new line, or a vertical tab, or a space                                                                                                                                    |
+| [:blank:]     | This matches with a space or a tab                                                                                                                                                                       |
+| [:print:]     | This matches with any printable character                                                                                                                                                                |
+| [:punct:]     | This matches with any of the punctuation characters as mentioned here -&nbsp;! ' # S % &amp; ' ( ) * + , - . / : ; &lt; = &gt; ? @ [ / ] ^ _ { | } ~                                                     |
+| [:graph:]     | This matches with any character that is defined as a printable character except for those which are defined as part of the space character class                                                         |
+| [:word:]      | This matches with any continuous string of alphanumeric characters and underscores.                                                                                                                      |
+| [:ascii:]     | This matches with any of the ASCII characters, in the range mentioned here: 0-127                                                                                                                        |
+| [:cntrl:]     | 
+This matches with any character that is not part of the character classes as like what are mentioned here&nbsp;[:upper:], [:lower:], [:alpha:], [:digit:], [:punct:], [:graph:], [:print:], [:xdigit:]
+ |
