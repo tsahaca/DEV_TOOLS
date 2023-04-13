@@ -1,3 +1,5 @@
+# [Cheat Sheet](cheatsheet)
+
 # How to add untracked new project to Github
 
 1. cd to ***<project_folder>***
