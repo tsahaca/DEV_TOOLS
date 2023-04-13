@@ -21,10 +21,12 @@ tsahaca/week-24-project
 
 3. Create a Personal Access Token with **delete_repo** permission 
 4. Copy the Personal Access Token
-4. create a file delete_forked_repos.sh as
+5. create a file delete_forked_repos.sh as
 
 ```bash
 while read repo; do curl -X DELETE -H "Authorization: token YOUR_TOKEN" "https://api.github.com/repos/$repo"; done < forked-repos.txt
 ```
+6. chmod +x delete_forked_repos.sh
+7. ./delete_forked_repos.sh
 
 [Medium](https://medium.com/analytics-vidhya/delete-all-unused-github-repositories-using-github-api-18ea4d17b8e9)
