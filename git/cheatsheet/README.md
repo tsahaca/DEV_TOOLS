@@ -6,7 +6,8 @@
 curl https://api.github.com/users/tsahaca/repos?per_page=100&page=1 | jq '.[] | select(.fork==true) | .clone_url' > forked-repos.txt
 ```
 2. prepare a file like this
-```bash
+
+```text
 sahaca/github-api-global-lib
 tsahaca/spring-jms-examples
 tsahaca/strimzi-kafka-tutorial
@@ -17,6 +18,7 @@ tsahaca/traefik-workshop
 tsahaca/vagrant-k3s-HA-cluster
 tsahaca/week-24-project
 ```
+
 3. Create a Personal Access Token with **delete_repo** permission 
 4. Copy the Personal Access Token
 4. create a file delete_forked_repos.sh as
