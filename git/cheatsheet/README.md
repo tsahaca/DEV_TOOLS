@@ -8,7 +8,7 @@ curl https://api.github.com/users/tsahaca/repos?per_page=100&page=1 | jq '.[] | 
 2. prepare a file like this
 
 ```text
-sahaca/github-api-global-lib
+tsahaca/github-api-global-lib
 tsahaca/spring-jms-examples
 tsahaca/strimzi-kafka-tutorial
 tsahaca/styleguide
