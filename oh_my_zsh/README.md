@@ -34,6 +34,6 @@ source ~/.zshrc
 ```
 8. Follow the prompts to configure powerlevel10k
 
-### IN WINDOWS GIT BASH 
+### Installing Zsh in Windows Git Bash
 
 [Click Here](https://dominikrys.com/posts/zsh-in-git-bash-on-windows/)
