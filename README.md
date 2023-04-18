@@ -8,4 +8,4 @@
 ## [TextPad](TextPad)
 ## [Splunk](splunk)
 ## [OH_MY_ZSH](oh_my_zsh)
-## [Sql Cheat Sheet](sql_cheat_sheet)
+## [SQL Cheat Sheet](sql_cheat_sheet)
