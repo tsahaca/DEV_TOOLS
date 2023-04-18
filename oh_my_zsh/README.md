@@ -33,3 +33,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 source ~/.zshrc
 ```
 8. Follow the prompts to configure powerlevel10k
+
+### IN WINDOWS GIT BASH 
+
+[Click Here](https://dominikrys.com/posts/zsh-in-git-bash-on-windows/)
