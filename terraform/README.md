@@ -23,4 +23,6 @@ terraform -v
 
 ## [How to manage multiple environments with Terraform using Terragrunt](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-using-terragrunt-2c3e32fc60a8)
 
+## [How to manage multiple versions of Terragrunt and Terraform as a team in your IaC project](https://blog.gruntwork.io/how-to-manage-multiple-versions-of-terragrunt-and-terraform-as-a-team-in-your-iac-project-da5b59209f2d)
+
 ## [How to Manage Multiple Terraform Environments Efficiently](https://spacelift.io/blog/terraform-environments)
