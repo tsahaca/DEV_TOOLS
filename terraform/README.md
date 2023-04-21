@@ -21,6 +21,6 @@ terraform -v
 5. terraform apply
 6. terraform destroy
 
-## [How to manage multiple environments with Terraform](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-32c7bc5d692)
+## [How to manage multiple environments with Terraform using Terragrunt](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-using-terragrunt-2c3e32fc60a8)
 
 ## [How to Manage Multiple Terraform Environments Efficiently](https://spacelift.io/blog/terraform-environments)
