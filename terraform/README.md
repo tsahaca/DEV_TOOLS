@@ -26,3 +26,5 @@ terraform -v
 ## [How to manage multiple versions of Terragrunt and Terraform as a team in your IaC project](https://blog.gruntwork.io/how-to-manage-multiple-versions-of-terragrunt-and-terraform-as-a-team-in-your-iac-project-da5b59209f2d)
 
 ## [How to Manage Multiple Terraform Environments Efficiently](https://spacelift.io/blog/terraform-environments)
+
+## [Deployment of Kubernetes, Helm and YAML files using Terraform](https://msandbu.org/deployment-of-kubernetes-helm-and-yaml-files-using-terraform/)
