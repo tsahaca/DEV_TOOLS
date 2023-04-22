@@ -6,6 +6,7 @@
 3. [The ABC’s of Splunk Part Five: Splunk CheatSheet](https://crossrealms.com/cyber-security/the-abcs-of-splunk-part-five-splunk-cheatsheet/)
 4. [ClouiBee](https://cloudibee.com/2020/08/15/splunk-search-cheatsheet/)
 5. [Regular Expression](https://regex101.com)
+6. [JSON Validator](https://jsonlint.com)
 
 ## Splunk Regex CheatSheet:
 These regular expressions are to be used on characters alone, and the possible usage has been explained in the example 
