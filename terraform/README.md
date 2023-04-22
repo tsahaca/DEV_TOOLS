@@ -28,3 +28,5 @@ terraform -v
 ## [How to Manage Multiple Terraform Environments Efficiently](https://spacelift.io/blog/terraform-environments)
 
 ## [Deployment of Kubernetes, Helm and YAML files using Terraform](https://msandbu.org/deployment-of-kubernetes-helm-and-yaml-files-using-terraform/)
+
+## [Kubectl Provider](https://registry.terraform.io/providers/gavinbunney/kubectl/latest/docs)
