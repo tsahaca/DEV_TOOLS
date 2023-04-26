@@ -30,3 +30,9 @@ while read repo; do curl -X DELETE -H "Authorization: token YOUR_TOKEN" "https:/
 7. ./delete_forked_repos.sh
 
 [Medium](https://medium.com/analytics-vidhya/delete-all-unused-github-repositories-using-github-api-18ea4d17b8e9)
+
+### To remove a file from git index
+
+```shell
+git rm --cached k8s/adot-collector-sa.yaml
+```
