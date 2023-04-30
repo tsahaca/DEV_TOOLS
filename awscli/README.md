@@ -1,4 +1,4 @@
-# [AWS SSO](sso)
+# [AWS SSO Cheatsheet](sso)
 
 # AWS Credentials By Assuming a Role
 
