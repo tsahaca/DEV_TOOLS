@@ -1,5 +1,7 @@
 # [AWS SSO Cheatsheet](sso)
 
+# [Install in Windows as non Admin User](windows)
+
 # AWS Credentials By Assuming a Role
 
 ```bash
