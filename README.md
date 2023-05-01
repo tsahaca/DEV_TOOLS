@@ -1,6 +1,7 @@
 # Dev Tools Cheat Sheet
 
 ## [AWS CLI](awscli)
+## [CloudWatch](awsemf)
 ## [Git](git)
 ## [Terraform](terraform)
 ## [IntelliJ IDEA](intellij)
