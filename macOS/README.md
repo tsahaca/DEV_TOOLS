@@ -36,7 +36,7 @@ You mostly only will need to use jenv local to set the java version for your pro
 ```shell
   $ jenv local 10.0
 ```  
-With this command, a **.java-version** file gets auto created in your project directory. You may opt to add this file in .git-ignore list (if you want).
+With this command, a   .**java-version** file gets auto created in your project directory. You may opt to add this file in .**gitignore** list (if you want).
 
 Now, if you type
 ```sell
