@@ -14,8 +14,8 @@ Matching Java Virtual Machines (7):
 ```
 
 ## jEnv - Manage your Java environment
-[jenv](https://www.jenv.be)
-[Managing Multiple JDK Installations With jEnv](https://www.baeldung.com/jenv-multiple-jdk)
+1. [jenv](https://www.jenv.be)
+2. [Managing Multiple JDK Installations With jEnv](https://www.baeldung.com/jenv-multiple-jdk)
 
 There are a couple of things more that you need to do to get it working properly…
 
