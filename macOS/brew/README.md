@@ -11,6 +11,7 @@
 
 ## Commands
 
+|-----------------|-------------------|
 |brew install git	| Install a package |
 |brew uninstall git	| Remove/Uninstall a package |
 |brew upgrade git	| Upgrade a package |
@@ -21,6 +22,7 @@
 
 ## More package commands
 
+|---------------|-----------------------------|
 |brew info git	| List versions, caveats, etc |
 |brew cleanup git	| Remove old versions |
 |brew edit git	| Edit this formula |
@@ -31,6 +33,7 @@
 
 ## Global commands
 
+|-------------|----------------------|
 | brew update	| Update brew and cask |
 | brew upgrade	| Upgrade all packages |
 | brew list	| List installed |
@@ -38,7 +41,7 @@
 | brew doctor	| Diagnose brew issues |
 
 ## Brew Cask commands
-
+|-----------------------------|-----------------------------|
 | brew install --cask firefox	| Install the Firefox browser |
 | brew list --cask	| List installed applications |
 
