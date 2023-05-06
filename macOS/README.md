@@ -1,5 +1,6 @@
 # MacOS CheatSheet
 
+## (Homebrew Basics)[brew]
 ## To list all JDK 
 ```shell
 /usr/libexec/java_home -V
