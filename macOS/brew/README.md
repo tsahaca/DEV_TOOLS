@@ -51,3 +51,5 @@
 | brew list --cask	| List installed applications |
 
 ### Cask commands are used for interacting with graphical applications.
+
+### [Homebrew - Basics Commands and Cheatsheet](https://dev.to/andremare/homebrew---basics--cheatsheet-3a3n)
