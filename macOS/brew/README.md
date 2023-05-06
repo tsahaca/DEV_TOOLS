@@ -11,6 +11,8 @@
 
 ## Commands
 
+| **Use Case** | **Command** |
+|--------------|-------------|
 | brew install git	| Install a package |
 | brew uninstall git	| Remove/Uninstall a package |
 | brew upgrade git	| Upgrade a package |
