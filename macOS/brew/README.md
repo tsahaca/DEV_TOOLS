@@ -11,14 +11,13 @@
 
 ## Commands
 
-|-----------------|-------------------|
-|brew install git	| Install a package |
-|brew uninstall git	| Remove/Uninstall a package |
-|brew upgrade git	| Upgrade a package |
-|brew unlink git	| Unlink |
-|brew link git	| Link |
-|brew switch git 2.5.0	| Change versions |
-|brew list --versions git	| See what versions you have |
+| brew install git	| Install a package |
+| brew uninstall git	| Remove/Uninstall a package |
+| brew upgrade git	| Upgrade a package |
+| brew unlink git	| Unlink |
+| brew link git	| Link |
+| brew switch git 2.5.0	| Change versions |
+| brew list --versions git	| See what versions you have |
 
 ## More package commands
 
