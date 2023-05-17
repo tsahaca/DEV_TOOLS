@@ -12,3 +12,4 @@
 ## [SQL Cheat Sheet](sql_cheat_sheet)
 ## [Mac OS](macOS)
 ## [Git Bash](git_bash)
+## [Just Command Runner Tool](https://just.systems/man/en/)
