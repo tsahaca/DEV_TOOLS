@@ -32,3 +32,8 @@ terraform -v
 ## [Kubectl Provider](https://registry.terraform.io/providers/gavinbunney/kubectl/latest/docs)
 
 ## [Terraform tips & tricks](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9)
+
+## [Managing Database Secrets In Terraform](https://dev.to/kelvinskell/how-to-manage-secrets-in-terraform-like-a-pro-14nn)
+
+## [SOPS - short for Secret Operation s](https://blog.gitguardian.com/a-comprehensive-guide-to-sops/#:~:text=SOPS%2C%20short%20for%20Secrets%20OPerationS,editor%2C%20encryption%2C%20and%20automation)
+
