@@ -7,3 +7,4 @@
 ## [The Differences between Hubs, Switches, and Routers](https://themillergroup.com/differences-hubs-switches-routers/)
 ## [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/)
 ## [What's the Difference? Hub vs Switch vs Router](https://community.fs.com/blog/do-you-know-the-differences-between-hubs-switches-and-routers.html)
+## [AWS Networking Basics For Programmers | Hands On](https://www.youtube.com/watch?v=2doSoMN2xvI&t=13s)
