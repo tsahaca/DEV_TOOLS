@@ -5,3 +5,4 @@
 ## [Network Devices- Hub, Switch, Router, Bridges, Network Card](https://blog.kara.com.ng/network-devices-hub-switch-router-bridges-network-card/)
 ## [The Differences between Hubs, Switches, and Routers](https://themillergroup.com/differences-hubs-switches-routers/)
 ## [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/)
+## [What's the Difference? Hub vs Switch vs Router](https://community.fs.com/blog/do-you-know-the-differences-between-hubs-switches-and-routers.html)
