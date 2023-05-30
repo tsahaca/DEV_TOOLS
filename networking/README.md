@@ -14,3 +14,4 @@
 ## [Multiple IP Addresses for EC2 Instances (in a Virtual Private Cloud)](https://aws.amazon.com/blogs/aws/multiple-ip-addresses-for-ec2-instances-in-a-virtual-private-cloud/)
 ## [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
 ## [EC2 Network Features](https://jayendrapatil.com/tag/ec2-elastic-network-interfaces/)
+## [Associate Elastic IP addresses with resources in your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html)
