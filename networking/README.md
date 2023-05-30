@@ -9,3 +9,5 @@
 ## [What's the Difference? Hub vs Switch vs Router](https://community.fs.com/blog/do-you-know-the-differences-between-hubs-switches-and-routers.html)
 ## [AWS Networking Basics For Programmers | Hands On](https://www.youtube.com/watch?v=2doSoMN2xvI&t=13s)
 ## [AWS/NACL : Why the need to set ephemeral ports range for outbound rules](https://remy-nts.medium.com/aws-nacl-why-the-need-to-set-ephemeral-ports-range-for-outbound-rules-50ee93986555)
+## [New – Elastic Network Interfaces in the Virtual Private Cloud](https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
+## [Multiple IP Addresses for EC2 Instances (in a Virtual Private Cloud)](https://aws.amazon.com/blogs/aws/multiple-ip-addresses-for-ec2-instances-in-a-virtual-private-cloud/)
