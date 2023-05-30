@@ -11,3 +11,5 @@
 ## [AWS/NACL : Why the need to set ephemeral ports range for outbound rules](https://remy-nts.medium.com/aws-nacl-why-the-need-to-set-ephemeral-ports-range-for-outbound-rules-50ee93986555)
 ## [New – Elastic Network Interfaces in the Virtual Private Cloud](https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
 ## [Multiple IP Addresses for EC2 Instances (in a Virtual Private Cloud)](https://aws.amazon.com/blogs/aws/multiple-ip-addresses-for-ec2-instances-in-a-virtual-private-cloud/)
+## [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+## [EC2 Network Features](https://jayendrapatil.com/tag/ec2-elastic-network-interfaces/)
