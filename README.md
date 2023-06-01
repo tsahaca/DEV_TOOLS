@@ -16,4 +16,4 @@
 ## [Networking](networking)
 ## [Kubernetes](kubernetes)
 ## [Python](python)
-## [GitHub Actions](github)
+## [GitHub Actions](GitHub)
