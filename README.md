@@ -15,3 +15,5 @@
 ## [Just Command Runner Tool](https://just.systems/man/en/)
 ## [Networking](networking)
 ## [Kubernetes](kubernetes)
+## [Python](python)
+## [GitHub Actions](github)
