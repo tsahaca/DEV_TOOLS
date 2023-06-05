@@ -16,3 +16,5 @@
 ## [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
 ## [EC2 Network Features](https://jayendrapatil.com/tag/ec2-elastic-network-interfaces/)
 ## [Associate Elastic IP addresses with resources in your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html)
+## [Use bridge networks](https://docs.docker.com/network/bridge/)
+## [Iptables Tutorial – Securing Ubuntu VPS with Linux Firewall](https://www.hostinger.com/tutorials/iptables-tutorial)
