@@ -1,5 +1,6 @@
 # Basics of Computer Networking
 
+## [Secure Connectivity from Public to Private: Introducing EC2 Instance Connect Endpoint](https://aws.amazon.com/blogs/compute/secure-connectivity-from-public-to-private-introducing-ec2-instance-connect-endpoint-june-13-2023/)
 ## [OSI Model](https://www.baeldung.com/cs/osi-model)
 ## [Differences between a Hub, a Switch, and a Router](https://www.section.io/engineering-education/switch-vs-router-vs-hub/)
 ## [Sunny Classroom](https://www.youtube.com/@sunnylearning)
