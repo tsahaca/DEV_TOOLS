@@ -17,4 +17,5 @@ Here's a roadmap to guide your learning journey in DevOps
   9. Familiarise yourself with monitoring techniques for real-time applications, services, and infrastructure oversight.
  10. Gain experience with cloud providers like AWS and Azure, leveraging their APIs for abstracting and provisioning infrastructure.
 
+
 Remember, DevOps is a mindset and a set of continually evolving practices. As you progress through the roadmap, adapt and refine your learning path based on your interests, goals, and the specific requirements of your organisation or projects. Hands-on experience and practical application of concepts are essential for mastering DevOps.
