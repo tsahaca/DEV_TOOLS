@@ -59,3 +59,5 @@ What you will learn:
 Spark, Kafka
 
 Visualization by Semantix Data Platform
+
+<body style="margin: 0px; height: 100%"><img style="-webkit-user-select: none; display: block; margin: auto; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); cursor: zoom-in;" src="https://media.licdn.com/dms/image/D4E22AQErQjYW3dQ8sw/feedshare-shrink_800/0/1686580181132?e=1689811200&amp;v=beta&amp;t=WD3tNDw9OtfMqC8ohlotwQd2RMOs3fEhNPVpoVhMlgY" width="757" height="500"></body>
