@@ -37,3 +37,5 @@ terraform -v
 
 ## [SOPS - short for Secret Operation s](https://blog.gitguardian.com/a-comprehensive-guide-to-sops/#:~:text=SOPS%2C%20short%20for%20Secrets%20OPerationS,editor%2C%20encryption%2C%20and%20automation)
 
+## [Creating a Rest API with Infrastructure as Code (Terraform) & Serverless (Lambda + Python) - Part 1](https://dev.to/aws-builders/creating-a-rest-api-with-infrastructure-as-code-terraform-serverless-lambda-python-part-1-3mbp)
+
