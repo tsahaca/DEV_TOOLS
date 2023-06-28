@@ -1,6 +1,8 @@
 
 # 🚀 Roadmap to learn and master SQL with FREE resources 👨‍💻
 
+## (Complex SQL)[docs/complex_sql.pdf]
+
 📌 Intro to SQL - Kaggle
 https://lnkd.in/ebTWM7FS
 
