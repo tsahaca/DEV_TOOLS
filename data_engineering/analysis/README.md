@@ -1,5 +1,7 @@
 
-👨‍💻 # Data Analysis Roadmap with FREE resources 📊 💸
+# DATA ANALYSIS
+
+👨‍💻 Data Analysis Roadmap with FREE resources 📊 💸
 
 📌 𝗠𝗮𝘁𝗵 𝗮𝗻𝗱 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀
 Intro to Statistics: Making Decisions Based on Data - Udacity
