@@ -1,4 +1,4 @@
-# FREE Microsoft Online Courses for Beginners 
+# 🚀 FREE Microsoft Online Courses for Beginners 👨‍💻
 
 Microsoft is offering online courses for FREE to learn about Web development, IoT, AI, Data Science and Machine Learning 🤖
 
