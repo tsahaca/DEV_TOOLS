@@ -26,4 +26,4 @@ Hash tables are data structures that use a technique called hashing to store and
 
 Choosing the appropriate data structure depends on the specific requirements of the problem at hand. Factors to consider include the type and size of data, the operations to be performed, memory usage, and efficiency requirements.
 
-<img width="600" src="https://media.licdn.com/dms/image/D4D22AQGUWIeavpdqBw/feedshare-shrink_800/0/1687755078824?e=1691020800&amp;v=beta&amp;t=0o5Hpv9A3QVtANSbcF-blyGF94ipOnbK-KNArQ_Bccw" loading="lazy" height="368" alt="Image preview" id="ember35" class="ivm-view-attr__img--centered  update-components-image__image evi-image lazy-image ember-view">
+![](images/data_struct.jpeg)
