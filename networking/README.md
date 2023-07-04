@@ -1,5 +1,5 @@
 # Basics of Computer Networking
-
+## [VLAN](https://www.practicalnetworking.net/stand-alone/vlans/)
 ## [Secure Connectivity from Public to Private: Introducing EC2 Instance Connect Endpoint](https://aws.amazon.com/blogs/compute/secure-connectivity-from-public-to-private-introducing-ec2-instance-connect-endpoint-june-13-2023/)
 ## [How to handle ephemeral ports in Security Groups and Network ACLs](https://alliescomputing.com/knowledge-base/how-to-handle-ephemeral-ports-in-security-groups-and-network-acls)
 ## [OSI Model](https://www.baeldung.com/cs/osi-model)
