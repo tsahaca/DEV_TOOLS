@@ -1,4 +1,5 @@
 # Basics of Computer Networking
+## [Difference Between Virtual Private Gateway and Transit Gateway](http://www.differencebetween.net/technology/difference-between-virtual-private-gateway-and-transit-gateway/)
 ## [AWS VPC Connectivity Options](https://d1.awsstatic.com/whitepapers/aws-amazon-vpc-connectivity-options.pdf)
 ## [AWS VGW vs DGW vs TGW](https://www.megaport.com/blog/aws-vgw-vs-dgw-vs-tgw/)
 ## [VLAN](https://www.practicalnetworking.net/stand-alone/vlans/)
