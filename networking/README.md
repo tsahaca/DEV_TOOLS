@@ -1,4 +1,6 @@
 # Basics of Computer Networking
+## [AWS VPC Connectivity Options](https://id1.awsstatic.com/whitepapers/aws-amazon-vpc-connectivity-options.pdf)
+## [AWS VGW vs DGW vs TGW](https://www.megaport.com/blog/aws-vgw-vs-dgw-vs-tgw/)
 ## [VLAN](https://www.practicalnetworking.net/stand-alone/vlans/)
 ## [Secure Connectivity from Public to Private: Introducing EC2 Instance Connect Endpoint](https://aws.amazon.com/blogs/compute/secure-connectivity-from-public-to-private-introducing-ec2-instance-connect-endpoint-june-13-2023/)
 ## [How to handle ephemeral ports in Security Groups and Network ACLs](https://alliescomputing.com/knowledge-base/how-to-handle-ephemeral-ports-in-security-groups-and-network-acls)
