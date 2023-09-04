@@ -1,5 +1,6 @@
 # CloudWatch CheatSheet
 
+## [Debugging Your Spring Boot 3 App with Effective Logging](https://github.com/hgbrown/springboot-logback-demo)
 ## [Migrating Your Spring Boot Application to use Structured Logging](https://www.jvt.me/posts/2021/05/31/spring-boot-structured-logging/)
 ## [Structured Logging with Spring Boot and Amazon CloudWatch](https://reflectoring.io/struct-log-with-cloudwatch-tutorial/)
 ## [The Importance of Structured Logging In AWS](https://medium.com/@connorbutch/the-importance-of-structured-logging-in-aws-and-anywhere-else-52a4534c53aa)
