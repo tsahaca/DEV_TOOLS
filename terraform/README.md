@@ -21,6 +21,10 @@ terraform -v
 5. terraform apply
 6. terraform destroy
 
+## [Terraform and libvirtd](https://www.youtube.com/watch?v=MdeJn1k2b8Y)
+## [Source code of Terraform and libvirtd](https://github.com/gitsridhar/libvirt-terraform) 
+## [Installing RKE2 with terraform on Libvirt VMs](https://www.youtube.com/watch?v=2XDvqWFRFw4)
+## [Source code of Installing RKE2 with terraform on Libvirt VMs](https://github.com/hoeghh/rke2-terraform)
 ## [How to manage multiple environments with Terraform using Terragrunt](https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-using-terragrunt-2c3e32fc60a8)
 
 ## [How to manage multiple versions of Terragrunt and Terraform as a team in your IaC project](https://blog.gruntwork.io/how-to-manage-multiple-versions-of-terragrunt-and-terraform-as-a-team-in-your-iac-project-da5b59209f2d)
