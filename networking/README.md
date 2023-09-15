@@ -1,5 +1,6 @@
 # Basics of Computer Networking]
 
+## [VLANs and Trunks for Beginners - Part 1](https://www.youtube.com/watch?v=aBOzFa6ioLw)
 ## [How to use macOS network utilities](https://medium.com/macoclock/network-warrior-how-to-use-macos-network-utilities-63c88f490ba0)
 ## [Mac Network Commands Cheat Sheet](https://gree2.github.io/mac/2015/07/18/mac-network-commands-cheat-sheet)
 ## [Network Gateways vs Interfaces](https://networkengineering.stackexchange.com/questions/50352/network-gateways-vs-interfaces)
