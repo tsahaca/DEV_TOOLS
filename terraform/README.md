@@ -20,6 +20,9 @@ terraform -v
 4. terraform validate
 5. terraform apply
 6. terraform destroy
+7. Use required_version on the terraform block to restrict modules to only be deployable from specific Terraform versions to ensure state compatibility.
+8. Use tgswitch and tfenv to make it easier to work with multiple versions of terragrunt and terraform respectively.
+9. Use version files (.terragrunt-version and .terraform-version) in your projects to automatically switch versions depending on which module you are deploying.
 
 ## [Terraform and libvirtd](https://www.youtube.com/watch?v=MdeJn1k2b8Y)
 ## [Source code of Terraform and libvirtd](https://github.com/gitsridhar/libvirt-terraform) 
