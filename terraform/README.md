@@ -24,6 +24,7 @@ terraform -v
 8. Use tgswitch and tfenv to make it easier to work with multiple versions of terragrunt and terraform respectively.
 9. Use version files (.terragrunt-version and .terraform-version) in your projects to automatically switch versions depending on which module you are deploying.
 
+## [How to manage multiple versions of Terragrunt and Terraform as a team in your IaC project](https://blog.gruntwork.io/how-to-manage-multiple-versions-of-terragrunt-and-terraform-as-a-team-in-your-iac-project-da5b59209f2d)
 ## [Terraform and libvirtd](https://www.youtube.com/watch?v=MdeJn1k2b8Y)
 ## [Source code of Terraform and libvirtd](https://github.com/gitsridhar/libvirt-terraform) 
 ## [Installing RKE2 with terraform on Libvirt VMs](https://www.youtube.com/watch?v=2XDvqWFRFw4)
