@@ -6,8 +6,9 @@
 5. [Glue Dev-Container](https://github.com/vincentclaes/glue-devcontainer)
 
 
-# Glue Tuning 
+## Glue Bottleneck and Solutions
 1. [Optimize memory management in AWS Glue](https://aws.amazon.com/blogs/big-data/optimize-memory-management-in-aws-glue/)
 2. [How Glue Works](https://docs.aws.amazon.com/glue/latest/dg/how-it-works.html)
 3. [How can I resolve the AWS Glue error "The specified subnet does not have enough free addresses to satisfy the request"?](https://repost.aws/knowledge-center/glue-specified-subnet-free-addresses)
 4. [Best Practices to Avoid Bottlenecks in AWS Glue and Redshift](https://pmsquare.com/analytics-blog/2023/5/9/best-practices-to-avoid-bottlenecks-in-aws-glue-and-redshift)
+5. [https://www.linkedin.com/pulse/how-solve-data-ingestion-bottlenecks-aws-glue-kirtiwardhan-rawal/](https://www.linkedin.com/pulse/how-solve-data-ingestion-bottlenecks-aws-glue-kirtiwardhan-rawal)
