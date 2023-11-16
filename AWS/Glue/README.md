@@ -12,6 +12,7 @@
 3. [How can I resolve the AWS Glue error "The specified subnet does not have enough free addresses to satisfy the request"?](https://repost.aws/knowledge-center/glue-specified-subnet-free-addresses)
 4. [Best Practices to Avoid Bottlenecks in AWS Glue and Redshift](https://pmsquare.com/analytics-blog/2023/5/9/best-practices-to-avoid-bottlenecks-in-aws-glue-and-redshift)
 5. [How to Solve Data Ingestion Bottlenecks in AWS Glue](https://www.linkedin.com/pulse/how-solve-data-ingestion-bottlenecks-aws-glue-kirtiwardhan-rawal)
+6. [Best practices to scale Apache Spark jobs and partition data with AWS Glue](https://aws.amazon.com/blogs/big-data/best-practices-to-scale-apache-spark-jobs-and-partition-data-with-aws-glue/)
 
 ## Glue Cost Optimization
 1. [Monitor and optimize cost on AWS Glue for Apache Spark](https://aws.amazon.com/blogs/big-data/monitor-optimize-cost-glue-spark/)
