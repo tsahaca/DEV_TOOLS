@@ -22,3 +22,6 @@
 
 ## Glue Cost Optimization
 1. [Monitor and optimize cost on AWS Glue for Apache Spark](https://aws.amazon.com/blogs/big-data/monitor-optimize-cost-glue-spark/)
+
+## Glue Workflow
+1. [How can I use AWS Glue workflows to automatically start a job when a crawler run completes?](https://repost.aws/knowledge-center/start-glue-job-after-crawler-workflow)
