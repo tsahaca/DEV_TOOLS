@@ -7,6 +7,7 @@
 4. [Automating Data Pipeline Deployment on AWS with Terraform: Utilizing Lambda, Glue, Crawler, Redshift, and S3](https://medium.com/@stefentaime_10958/automating-data-pipeline-deployment-on-aws-with-terraform-utilizing-lambda-glue-crawler-1621e0736edd)
 5. [Glue Dev-Container](https://github.com/vincentclaes/glue-devcontainer)
 6. [Glue Crawler using Terraform](https://geeks.wego.com/creating-glue-crawlers-via-terraform/)
+7. [Automatically Managing Data Pipeline Infrastructures With Terraform](https://towardsdatascience.com/automatically-managing-data-pipeline-infrastructures-with-terraform-323fd1808a47)
 
 
 ## Glue Bottleneck and Solutions
