@@ -6,6 +6,7 @@
 3. [Using AWS DevOps Tools to model and provision AWS Glue workflows](https://aws.amazon.com/blogs/devops/provision-codepipeline-glue-workflows/)
 4. [Automating Data Pipeline Deployment on AWS with Terraform: Utilizing Lambda, Glue, Crawler, Redshift, and S3](https://medium.com/@stefentaime_10958/automating-data-pipeline-deployment-on-aws-with-terraform-utilizing-lambda-glue-crawler-1621e0736edd)
 5. [Glue Dev-Container](https://github.com/vincentclaes/glue-devcontainer)
+6. [Glue Crawler using Terraform](https://geeks.wego.com/creating-glue-crawlers-via-terraform/)
 
 
 ## Glue Bottleneck and Solutions
