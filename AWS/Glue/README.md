@@ -11,6 +11,8 @@
 8. [Cloud Posse AWS Glue Terraform](https://github.com/cloudposse/terraform-example-module)
 9. [Build AWS Glue Workflows with Terraform](https://zenn.dev/pageo/articles/e4fc7c6a58188c)
 10. [terraform-aws-glue-workflow](https://github.com/page-o/terraform-aws-glue-workflows)
+11. [Pageo](https://zenn.dev/pageo)
+12. [DRY Directory Structure in Terraform](https://zenn.dev/pageo/articles/d90d89e2168061)
 
 
 ## Glue Bottleneck and Solutions
