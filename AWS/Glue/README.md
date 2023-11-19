@@ -9,6 +9,8 @@
 6. [Glue Crawler using Terraform](https://geeks.wego.com/creating-glue-crawlers-via-terraform/)
 7. [Automatically Managing Data Pipeline Infrastructures With Terraform](https://towardsdatascience.com/automatically-managing-data-pipeline-infrastructures-with-terraform-323fd1808a47)
 8. [Cloud Posse AWS Glue Terraform](https://github.com/cloudposse/terraform-example-module)
+9. [Build AWS Glue Workflows with Terraform](https://zenn.dev/pageo/articles/e4fc7c6a58188c)
+10. [terraform-aws-glue-workflow](https://github.com/page-o/terraform-aws-glue-workflows)
 
 
 ## Glue Bottleneck and Solutions
