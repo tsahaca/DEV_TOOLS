@@ -13,6 +13,7 @@
 10. [terraform-aws-glue-workflow](https://github.com/page-o/terraform-aws-glue-workflows)
 11. [Pageo](https://zenn.dev/pageo)
 12. [DRY Directory Structure in Terraform](https://zenn.dev/pageo/articles/d90d89e2168061)
+13. [Terraform Functions, Expressions, Loops ](https://spacelift.io/blog/terraform-functions-expressions-loops)
 
 
 ## Glue Bottleneck and Solutions
