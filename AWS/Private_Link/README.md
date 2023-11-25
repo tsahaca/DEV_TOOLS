@@ -2,6 +2,7 @@
 
 ![private-link-endpoint-service](https://github.com/tsahaca/DEV_TOOLS/assets/9325425/040b5480-99f0-42b4-8551-d0409b4f0b04)
 
+**PRIVATE LINK IS THE ONLY TECHNOLOGY THAT ALLOWS 2 VPCS TO CONNECT THAT HAVE OVERLAPPING CIDR RANGES**
 
 Suppose there is a website xyz.com that I am hosting in a bunch of Ec2 instances, exposed to the outside world thru a Network load balancer. Now, a client who has his/her own AWS account, wants to access this xyz.com from an Ec2 running in their aws account.
 
@@ -11,5 +12,5 @@ So, this is how to route traffic through the AWS backbone:
 
 I, the owner of xyz.com, will create a VPC End Point Service (NOTE the keyword Service here) The VPC End point service will point to my Network load balancer. I will then give my VPC End point service name to the client.
 The client will create a VPC End Point (NOTE.. this is different from #1). While creating it, the client will specify the VPC End Point Service name (from #1) that he got from me.
-I can choose to be prompted to accept the connection from the client to my VPC End point service. As soon as I accept it, then the client can reach xyz.com from his/her EC2 instance. There is no Internet, no direct connect or VPN.. this simply works; and its secure. And which technology enabled it.. AWS Private link !!!
-PRIVATE LINK IS THE ONLY TECHNOLOGY THAT ALLOWS 2 VPCS TO CONNECT THAT HAVE OVERLAPPING CIDR RANGES.
+I can choose to be prompted to accept the connection from the client to my VPC End point service. As soon as I accept it, then the client can reach xyz.com from his/her EC2 instance. There is no Internet, no direct connect or VPN.. this simply works; and its secure. And which technology enabled it.. **AWS Private link !!!**
+
