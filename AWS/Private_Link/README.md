@@ -1,5 +1,8 @@
 # Private Link | VPC Endpoint Service | VPC Endpoint
 
+![private-link-endpoint-service](https://github.com/tsahaca/DEV_TOOLS/assets/9325425/040b5480-99f0-42b4-8551-d0409b4f0b04)
+
+
 Suppose there is a website xyz.com that I am hosting in a bunch of Ec2 instances, exposed to the outside world thru a Network load balancer. Now, a client who has his/her own AWS account, wants to access this xyz.com from an Ec2 running in their aws account.
 
 One approach is to go thru the Internet. However the client wants to avoid the internet route. He/she wants to use the AWS backbone to reach xyz.com. The technology that enables that, is AWS Private link. (note that if you search for Private Link in the AWS services, there will be none. You will get "End point services" as the closest hit)
