@@ -10,7 +10,7 @@ One approach is to go thru the Internet. However the client wants to avoid the i
 
 So, this is how to route traffic through the AWS backbone:
 
-I, the owner of xyz.com, will create a VPC End Point Service (NOTE the keyword Service here) The VPC End point service will point to my Network load balancer. I will then give my VPC End point service name to the client.
-The client will create a VPC End Point (NOTE.. this is different from #1). While creating it, the client will specify the VPC End Point Service name (from #1) that he got from me.
-I can choose to be prompted to accept the connection from the client to my VPC End point service. As soon as I accept it, then the client can reach xyz.com from his/her EC2 instance. There is no Internet, no direct connect or VPN.. this simply works; and its secure. And which technology enabled it.. **AWS Private link !!!**
+I, the owner of xyz.com, will create a **VPC Endpoint Service** (NOTE the keyword **Service** here) The VPC End point service will point to my Network load balancer. I will then give my VPC End point service name to the client.
+The client will create a **VPC Endpoint** (NOTE.. this **is different from #1**). While creating it, the client will specify the **VPC Endpoint Service** name (from #1) that he got from me.
+I can choose to be prompted to accept the connection from the client to my VPC End point service. As soon as I accept it, then the client can reach xyz.com from his/her EC2 instance. There is no Internet, no direct connect or VPN.. this simply works; and its secure. And which technology enabled it.. **AWS PrivateLink !!!**
 
