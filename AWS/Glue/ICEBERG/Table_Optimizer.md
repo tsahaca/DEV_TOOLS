@@ -42,8 +42,8 @@ glue:GetTableOptimizer action was introduced in aswcli-2.13.36
                 "glue:GetTable"
             ],
             "Resource": [
-                "arn:aws:glue:us-east-1:123456789:table/default/my_iceberg_table",
-                "arn:aws:glue:us-east-1:123456789:database/default",
+                "arn:aws:glue:us-east-1:123456789:table/my_db/my_iceberg_table",
+                "arn:aws:glue:us-east-1:123456789:database/my_db",
                 "arn:aws:glue:us-east-1:123456789:catalog"
             ]
         },
