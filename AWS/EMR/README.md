@@ -13,3 +13,4 @@
 11. https://www.analyticsvidhya.com/blog/2020/11/a-must-read-guide-on-how-to-work-with-pyspark-on-google-colab-for-data-scientists/
 12. https://www.bmc.com/blogs/jupyter-notebooks-apache-spark
 13. https://www.databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html
+14. https://dasiyql.medium.com/deploy-application-from-jupyter-lab-to-a-spark-standalone-cluster-d2dcd596fbb8
