@@ -9,3 +9,4 @@
 7. https://medium.com/@flomin.ron/optimizing-slow-group-by-aggregations-in-spark-from-20-hours-to-40-minutes-eed4fdfe911c
 8. https://medium.com/python-in-plain-english/maximizing-spark-performance-minimizing-shuffle-overhead-e21b7a4e5e71
 9. https://medium.com/towards-data-science/optimizing-output-file-size-in-apache-spark-5ce28784934c
+10. https://levelup.gitconnected.com/launch-spark-on-google-colab-and-connect-to-sparkui-342cad19b304
