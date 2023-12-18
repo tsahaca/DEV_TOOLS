@@ -6,3 +6,6 @@
 4. https://docs.cloudera.com/documentation/enterprise/5-6-x/topics/cdh_ig_spark_apps.html
 5. https://docs.cloudera.com/documentation/enterprise/5-6-x/topics/admin_spark_tuning1.html
 6. https://medium.com/@deepa.account/setting-up-spark-ui-with-colab-7bdbc0ac5fa7
+7. https://medium.com/@flomin.ron/optimizing-slow-group-by-aggregations-in-spark-from-20-hours-to-40-minutes-eed4fdfe911c
+8. https://medium.com/python-in-plain-english/maximizing-spark-performance-minimizing-shuffle-overhead-e21b7a4e5e71
+9. https://medium.com/towards-data-science/optimizing-output-file-size-in-apache-spark-5ce28784934c
