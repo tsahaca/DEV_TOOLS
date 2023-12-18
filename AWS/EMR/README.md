@@ -12,3 +12,4 @@
 10. https://levelup.gitconnected.com/launch-spark-on-google-colab-and-connect-to-sparkui-342cad19b304
 11. https://www.analyticsvidhya.com/blog/2020/11/a-must-read-guide-on-how-to-work-with-pyspark-on-google-colab-for-data-scientists/
 12. https://www.bmc.com/blogs/jupyter-notebooks-apache-spark
+13. https://www.databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html
