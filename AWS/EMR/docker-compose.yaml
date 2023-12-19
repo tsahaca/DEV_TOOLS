@@ -8,6 +8,10 @@ services:
     image: jupyter/pyspark-notebook
     volumes:
       - $PWD:/home/jovyan/work
+      - spark-logs:/opt/spark/spark-events
     ports:
       - '8888:8888'
       - '4040:4040'
+volumes:
+  spark-logs:
+      
