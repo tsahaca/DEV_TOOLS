@@ -1,0 +1,13 @@
+# Copyright VMware, Inc.
+# SPDX-License-Identifier: APACHE-2.0
+
+version: '3.8'
+
+services:
+  jupyter_pyspark:
+    image: jupyter/pyspark-notebook
+    volumes:
+      - $PWD:/home/jovyan/work
+    ports:
+      - '8888:8888'
+      - '4040:4040'
