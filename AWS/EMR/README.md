@@ -17,3 +17,4 @@
 15. https://aws.amazon.com/blogs/big-data/introducing-runtime-roles-for-amazon-emr-steps-use-iam-roles-and-aws-lake-formation-for-access-control-with-amazon-emr/
 16. https://medium.com/analytics-vidhya/simple-method-to-choose-number-of-partitions-in-spark-75315c636a94
 17. https://medium.com/analytics-vidhya/spark-memory-management-583a16c1253f
+18. https://medium.com/@martinkarlsson.io/big-data-solution-with-hadoop-spark-jupyter-and-docker-6763983ed5d8
