@@ -15,3 +15,4 @@
 13. https://www.databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html
 14. https://dasiyql.medium.com/deploy-application-from-jupyter-lab-to-a-spark-standalone-cluster-d2dcd596fbb8
 15. https://aws.amazon.com/blogs/big-data/introducing-runtime-roles-for-amazon-emr-steps-use-iam-roles-and-aws-lake-formation-for-access-control-with-amazon-emr/
+16. https://medium.com/analytics-vidhya/simple-method-to-choose-number-of-partitions-in-spark-75315c636a94
