@@ -1,4 +1,5 @@
-# This check list can be used as the starting point for optimizing and troubleshooting bottlenecks in EMR Spark workloads. There are some prerequisites which are required before doing this task. 
+# Check List
+This check list can be used as the starting point for optimizing and troubleshooting bottlenecks in EMR Spark workloads. There are some prerequisites which are required before doing this task. 
 
 ## Prerequisites: 
 1. Spark Architecture and how does it integrate with Hadoop YARN.
