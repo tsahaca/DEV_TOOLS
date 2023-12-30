@@ -16,4 +16,5 @@ Based on cluster configuration
 s3-dist-cp to copy your data back to S3. If EMR cluster is missing the s3-dist-cp command you have to include Hadoop in your create-cluster command. example: --applications Name=Hadoop Name=Spark
 4. Persist the Dataframe which are being used multiple times. This will reduce the read time.
 5. [Shuffle Partitions Calculator](https://github.com/justinbreese/databricks-gems/blob/master/shufflePartitionCalculator/sparkShufflePartitionCalculator.py)
+6. [AQE Auto Optimizer](https://community.databricks.com/t5/data-engineering/ideal-number-and-size-of-partitions/td-p/25502)
    
