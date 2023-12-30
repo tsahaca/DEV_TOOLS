@@ -20,5 +20,8 @@ s3-dist-cp to copy your data back to S3. If EMR cluster is missing the s3-dist-c
 7. [AQE in Databricks](https://www.databricks.com/blog/2020/10/21/faster-sql-adaptive-query-execution-in-databricks.html)
 8. [AQE User Guide](https://docs.databricks.com/en/optimizations/aqe.html)
 9. [AQE Optimization](https://docs.databricks.com/en/optimizations/aqe.html#spark-ui)
-10.[Spark SQL Query Engine Deep Dive](https://dataninjago.com/2022/02/21/spark-sql-query-engine-deep-dive-20-adaptive-query-execution-part-2/)
+10. [Spark SQL Query Engine Deep Dive](https://dataninjago.com/2022/02/21/spark-sql-query-engine-deep-dive-20-adaptive-query-execution-part-2/)
+11. [AQE Part 2](https://blog.madhukaraphatak.com/spark-aqe-part-2)
+   
+   
    
