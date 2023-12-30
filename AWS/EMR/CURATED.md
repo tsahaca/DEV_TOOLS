@@ -19,4 +19,5 @@ s3-dist-cp to copy your data back to S3. If EMR cluster is missing the s3-dist-c
 6. [AQE Auto Optimizer](https://community.databricks.com/t5/data-engineering/ideal-number-and-size-of-partitions/td-p/25502)
 7. [AQE in Databricks](https://www.databricks.com/blog/2020/10/21/faster-sql-adaptive-query-execution-in-databricks.html)
 8. [AQE User Guide](https://docs.databricks.com/en/optimizations/aqe.html)
+9. [AQE Optimization](https://docs.databricks.com/en/optimizations/aqe.html#spark-ui)
    
