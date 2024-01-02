@@ -1,6 +1,6 @@
 # Optimization Checklist
 
-1.[EMR Best Practices](https://aws.github.io/aws-emr-best-practices/applications/spark/best_practices/)
+1. [EMR Best Practices](https://aws.github.io/aws-emr-best-practices/applications/spark/best_practices/)
 2. [Tune Hadoop and Spark performance with Dr. Elephant and Sparklens on Amazon EMR](https://aws.amazon.com/blogs/big-data/tune-hadoop-and-spark-performance-with-dr-elephant-and-sparklens-on-amazon-emr/)
 
 
