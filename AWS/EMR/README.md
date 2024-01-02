@@ -2,7 +2,7 @@
 
 1.[EMR Best Practices](https://aws.github.io/aws-emr-best-practices/applications/spark/best_practices/)
 2. [Tune Hadoop and Spark performance with Dr. Elephant and Sparklens on Amazon EMR](https://aws.amazon.com/blogs/big-data/tune-hadoop-and-spark-performance-with-dr-elephant-and-sparklens-on-amazon-emr/)
-4.  https://medium.com/@harmeet.sokhi/spark-optimisation-checklist-38ab3b1db9c1
+4. https://medium.com/@harmeet.sokhi/spark-optimisation-checklist-38ab3b1db9c1
 5. https://www.waitingforcode.com/apache-spark/performance-optimization-lessons-spark-ai-data--ai-summits/read
 6. https://observablehq.com/@robinl/spark-explain
 7. https://docs.cloudera.com/documentation/enterprise/5-6-x/topics/cdh_ig_spark_apps.html
