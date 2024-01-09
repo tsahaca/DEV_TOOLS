@@ -5,4 +5,6 @@
 4. [10 Best Practices for writing SQL in Databricks](https://medium.com/@fpatano/10-best-practices-for-writing-sql-in-databricks-7a445740e540)
 5. [A PySpark Style Guide for Real-world Data Scientists](https://blog.palantir.com/a-pyspark-style-guide-for-real-world-data-scientists-1727fda397e9)
 6. [Spark SQL](https://www.linkedin.com/pulse/so-what-spark-sql-muhammad-salahuddin/)
+7. [Master Test Driven Development in PySpark: A Practical Guide.
+](https://python.plainenglish.io/master-test-driven-development-in-pyspark-a-practical-guide-ea3f5e2ffab7)
    
