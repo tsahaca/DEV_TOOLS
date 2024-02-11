@@ -7,5 +7,6 @@
 6. [Spark SQL](https://www.linkedin.com/pulse/so-what-spark-sql-muhammad-salahuddin/)
 7. [Master Test Driven Development in PySpark: A Practical Guide.](https://python.plainenglish.io/master-test-driven-development-in-pyspark-a-practical-guide-ea3f5e2ffab7)
 8. [Understand 5 Scopes of Pytest Fixtures](https://betterprogramming.pub/understand-5-scopes-of-pytest-fixtures-1b607b5c19ed)
+9. [Spark Catalog Configuration](https://docs.cloudera.com/data-engineering/cloud/manage-jobs/topics/cde-iceberg-configure-catalog.html?)
 
    
