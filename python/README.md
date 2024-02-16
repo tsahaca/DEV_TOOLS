@@ -6,3 +6,4 @@
 ## [FastAPI Example App](https://github.com/KenMwaura1/Fast-Api-example)
 ## [Logging in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
 ## [Logging in python3.0](https://coding-stream-of-consciousness.com/2018/11/26/logging-in-python-3-like-java-log4j-logback/)
+## [Cookie Cutter data-science](https://drivendata.github.io/cookiecutter-data-science/)
