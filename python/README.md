@@ -8,3 +8,4 @@
 ## [Logging in python3.0](https://coding-stream-of-consciousness.com/2018/11/26/logging-in-python-3-like-java-log4j-logback/)
 ## [Cookie Cutter data-science](https://drivendata.github.io/cookiecutter-data-science/)
 ## [pyspark-example-project](https://github.com/AlexIoannides/pyspark-example-project)
+## [Best Practices for Spark ETL Jobs](https://alexioannides.com/2019/07/28/best-practices-for-pyspark-etl-projects/)
