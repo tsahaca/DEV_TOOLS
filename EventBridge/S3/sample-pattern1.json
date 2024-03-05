@@ -1,0 +1,14 @@
+{
+  "detail-type": ["Object Created"],
+  "source": ["aws.s3"],
+  "detail": {
+    "bucket": {
+      "name": ["YOUR_BUCKET"]
+    },
+    "object": {
+      "key": [{
+        "wildcard": "sqs/*/test3.json"
+      }]
+    }
+  }
+}
