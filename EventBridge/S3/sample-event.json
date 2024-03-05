@@ -1,0 +1,28 @@
+{
+    "version": "0",
+    "id": "850e7c2a-5612-3df4-f4b4-dc0a63797b80",
+    "detail-type": "Object Created",
+    "source": "aws.s3",
+    "account": "1234567890",
+    "time": "2024-03-03T22: 43: 15Z",
+    "region": "us-east-1",
+    "resources": [
+        "arn:aws:s3: : :YOUR_BUCKET"
+    ],
+    "detail": {
+        "version": "0",
+        "bucket": {
+            "name": "YOUR_BUCKET"
+        },
+        "object": {
+            "key": "sqs/msgid/test3.json",
+            "size": 19,
+            "etag": "c42f13bc49a9af7a90b889142ec2b5fb",
+            "sequencer": "0065E4FD03A8A76911"
+        },
+        "request-id": "WYVSC9HFFBRM603K",
+        "requester": "013387749314",
+        "source-ip-address": "104.34.115.149",
+        "reason": "PutObject"
+    }
+}
