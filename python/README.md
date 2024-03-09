@@ -10,3 +10,5 @@
 ## [pyspark-example-project](https://github.com/AlexIoannides/pyspark-example-project)
 ## [Best Practices for Spark ETL Jobs](https://alexioannides.com/2019/07/28/best-practices-for-pyspark-etl-projects/)
 ## [Traps for the Unwary in Python’s Import System](https://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
+## [Writing unit tests for Lambda functions in Python
+](https://emshea.com/post/writing-python-unit-tests-lambda-functions#walkthrough-of-an-example-python-function-and-unit-test)
