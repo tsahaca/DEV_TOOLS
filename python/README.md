@@ -14,3 +14,4 @@
 ## [Unit Testing AWS Lambda with Python and Mock AWS Services](https://aws.amazon.com/blogs/devops/unit-testing-aws-lambda-with-python-and-mock-aws-services/)
 ## [Unit Testing AWS S3 code in Python using PyTest & Moto](https://medium.com/@anupkumarray/unit-testing-aws-s3-code-in-python-using-pytest-moto-76874a5f3306)
 ## [Getting Started With PyTest Fixtures](https://earthly.dev/blog/pytest-fixtures/)
+## [AWS Unit Test with python](https://xebia.com/blog/aws-lambda-unit-testing/)
