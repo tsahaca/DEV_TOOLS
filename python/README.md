@@ -12,3 +12,4 @@
 ## [Unit Testing AWS S3 code in Python using PyTest & Moto](https://medium.com/@anupkumarray/unit-testing-aws-s3-code-in-python-using-pytest-moto-76874a5f3306)
 ## [Getting Started With PyTest Fixtures](https://earthly.dev/blog/pytest-fixtures/)
 ## [AWS Unit Test with python](https://xebia.com/blog/aws-lambda-unit-testing/)
+## [Python Dictionary Comprehension](https://www.analyticsvidhya.com/blog/2024/01/python-dictionary-comprehension/)
