@@ -1,5 +1,6 @@
 # Python CheatSheet
 
+## [Deep Learning](https://www.fast.ai/posts/2016-10-08-teaching-philosophy.html)
 ## [Books](https://github.com/balban/Books/tree/master)
 ## [Creating a Python Makefile](https://earthly.dev/blog/python-makefile/)
 ## [Logging in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
