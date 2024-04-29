@@ -10,4 +10,5 @@
 8. AWS Outpost rack vs Outpost Server
 9. AWS Batch vs EMR
 10. EC2 Cluster Placement Group plus reserved instances - low latency and cost effective
+11. S3 Transfer acceleartion endpoint -  S3 Transfer Acceleration uses CloudFront edge locations and optimized network paths to accelerate object transfer.
 
