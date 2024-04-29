@@ -6,4 +6,5 @@
 4. IAM Access Analyzer and CloudTrail
 5. Amazon Workspaces
 6. Timestream Databases
+7. Step Functions Standard vs Express
 
