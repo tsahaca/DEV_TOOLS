@@ -14,3 +14,4 @@
 12. Gigabit to Gigabyte - 1 Gigabit = 1/8 Gigabyte = .125 Gigabyte
 13. Data Transfer from On-Prem to AWS - AWS Snowball Edge storage optimized devices
 14. Multi-Region failover strategy for the data tier on a single EC2 instance that runs a PostgreSQL database - > Aurora global databases span multiple AWS Regions. This solution would make fast failover to another Region possible.
+15. AWS Timestream Table
