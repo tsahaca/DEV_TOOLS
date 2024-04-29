@@ -9,4 +9,5 @@
 7. Step Functions Standard vs Express
 8. AWS Outpost rack vs Outpost Server
 9. AWS Batch vs EMR
+10. EC2 Cluster Placement Group plus reserved instances - low latency and cost effective
 
