@@ -15,3 +15,4 @@
 13. Data Transfer from On-Prem to AWS - AWS Snowball Edge storage optimized devices
 14. Multi-Region failover strategy for the data tier on a single EC2 instance that runs a PostgreSQL database - > Aurora global databases span multiple AWS Regions. This solution would make fast failover to another Region possible.
 15. AWS Timestream Table
+16. AWS App Runner to host the web application and farget too run the order processing solution
