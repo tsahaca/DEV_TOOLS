@@ -8,4 +8,5 @@
 6. Timestream Databases
 7. Step Functions Standard vs Express
 8. AWS Outpost rack vs Outpost Server
+9. AWS Batch vs EMR
 
