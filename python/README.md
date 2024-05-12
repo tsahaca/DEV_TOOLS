@@ -1,4 +1,5 @@
 # Python CheatSheet
+## [What is setup.py in python](https://www.geeksforgeeks.org/what-is-setup-py-in-python/)
 ## [Modules and Packages in Python](https://www.sitepoint.com/python-modules-packages/)
 ## [Deep Learning](https://www.fast.ai/posts/2016-10-08-teaching-philosophy.html)
 ## [Books](https://github.com/balban/Books/tree/master)
