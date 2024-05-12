@@ -1,5 +1,5 @@
 # Python CheatSheet
-
+## [Modules and Packages in Python](https://www.sitepoint.com/python-modules-packages/)
 ## [Deep Learning](https://www.fast.ai/posts/2016-10-08-teaching-philosophy.html)
 ## [Books](https://github.com/balban/Books/tree/master)
 ## [Creating a Python Makefile](https://earthly.dev/blog/python-makefile/)
