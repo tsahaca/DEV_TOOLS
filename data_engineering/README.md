@@ -1,5 +1,7 @@
 # DATA ENGINEERING
 
+## [Deploy Snowflake code with GitHub Actions](https://medium.com/snowflake/deploy-snowflake-code-with-github-actions-abc6b707216d)
+## [Using Airflow with Snowpark](https://www.mobilize.net/blog/using-airflow-with-snowpark)
 ## [Why Your Financial Services Enterprise Should Migrate from AutoSys to Cloud Composer](https://www.techolution.com/why-your-financial-services-enterprise-should-migrate-from-autosys-to-cloud-composer/)
 
 ## [Awesome Data Engineering Projects to start building your portfolio](https://www.linkedin.com/posts/ginacostag_python-data-datascience-activity-7074030004233228288-jMc2/?utm_source=share&utm_medium=member_ios)
