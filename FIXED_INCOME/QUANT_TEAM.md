@@ -29,11 +29,11 @@ A quant team, short for quantitative team, typically refers to a group of profes
 * Evaluates the financial risk associated with different investments and trading strategies.
 * Develops models to assess and mitigate risk.
 * Requires expertise in risk management techniques and regulatory requirements.
-### Data Scientist/Engineer:
+### 5. Data Scientist/Engineer:
 * Collects, processes, and analyzes large sets of financial data.
 * Develops tools and infrastructure to handle big data and facilitate quantitative analysis.
 * Requires skills in data science, machine learning, and big data technologies.
-### Portfolio Manager:
+### 6. Portfolio Manager:
 * Oversees investment portfolios and ensures they align with the firm's strategy and risk tolerance.
 * Uses quantitative analysis to optimize portfolio performance.
 * Requires a combination of quantitative skills and investment experience.
