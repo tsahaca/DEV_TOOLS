@@ -2,7 +2,7 @@
 
 A quant team, short for quantitative team, typically refers to a group of professionals who apply quantitative techniques to financial and investment problems. These teams are commonly found in financial institutions, hedge funds, investment banks, and asset management firms. Here’s an overview of what a quant team does and the typical roles and responsibilities within the team:
 
-**Overview**
+## Overview
 1. **Quantitative Analysis:** The primary function of a quant team is to perform quantitative analysis to develop mathematical models that can predict market movements, assess risk, and optimize investment strategies.
 2. **Financial Modeling:** They build and maintain complex financial models that are used for pricing derivatives, managing risk, and identifying profitable trading opportunities.
 3. **Algorithmic Trading:** Many quant teams are involved in developing and implementing algorithmic trading strategies, where trades are executed automatically based on predefined criteria.
