@@ -11,9 +11,9 @@ A quant team, short for quantitative team, typically refers to a group of profes
 
 ## Typical Roles in a Quant Team
 ### 1. Quantitative Analyst (Quant):
-. Develops mathematical models for pricing, trading, and risk management.
-. Uses statistical methods and software to analyze financial data.
-. Requires strong skills in mathematics, statistics, and programming (often in languages like Python, R, C++, and MATLAB).
+* Develops mathematical models for pricing, trading, and risk management.
+* Uses statistical methods and software to analyze financial data.
+* Requires strong skills in mathematics, statistics, and programming (often in languages like Python, R, C++, and MATLAB).
 
 ### 2. Quantitative Developer:
 
