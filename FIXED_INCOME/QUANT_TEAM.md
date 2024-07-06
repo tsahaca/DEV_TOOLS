@@ -35,17 +35,19 @@ A quant team, short for quantitative team, typically refers to a group of profes
 * Oversees investment portfolios and ensures they align with the firm's strategy and risk tolerance.
 * Uses quantitative analysis to optimize portfolio performance.
 * Requires a combination of quantitative skills and investment experience.
-Skills and Tools
-Mathematical and Statistical Knowledge: Calculus, linear algebra, probability, and statistics.
-Programming Languages: Python, R, C++, MATLAB, and SQL.
-Financial Knowledge: Understanding of financial instruments, markets, and trading strategies.
-Software Tools: Excel, Bloomberg, financial modeling software, and various statistical analysis tools.
-Applications
-Quant teams apply their expertise in various areas such as:
 
-Derivatives Pricing: Developing models to price options, futures, and other derivatives.
-Algorithmic Trading: Creating and optimizing automated trading strategies.
-Risk Management: Assessing market, credit, and operational risk.
-Portfolio Management: Constructing and managing investment portfolios to maximize returns and minimize risk.
-Conclusion
+## Skills and Tools
+* **Mathematical and Statistical Knowledge:** Calculus, linear algebra, probability, and statistics.
+* **Programming Languages:** Python, R, C++, MATLAB, and SQL.
+* **Financial Knowledge:** Understanding of financial instruments, markets, and trading strategies.
+* **Software Tools:** Excel, Bloomberg, financial modeling software, and various statistical analysis tools.
+
+## Applications
+Quant teams apply their expertise in various areas such as:
+* **Derivatives Pricing:** Developing models to price options, futures, and other derivatives.
+* **Algorithmic Trading:** Creating and optimizing automated trading strategies.
+* **Risk Management:** Assessing market, credit, and operational risk.
+* **Portfolio Management:** Constructing and managing investment portfolios to maximize returns and minimize risk.
+
+## Conclusion
 Quant teams play a crucial role in the financial industry by leveraging advanced mathematical and statistical techniques to make informed investment decisions, manage risk, and develop trading strategies. Their work requires a unique combination of skills in mathematics, finance, programming, and data analysis.
