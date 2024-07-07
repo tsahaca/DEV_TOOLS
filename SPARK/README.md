@@ -2,6 +2,7 @@
 * [Easy way setting up apache spark master, workers and jupyterlab with docker-compose](https://medium.com/@leodrl9/easy-way-setting-up-apache-spark-master-workers-and-jupyterlab-with-docker-compose-ee267d431b5d)
 * [Efficient Data Processing in Spark](https://github.com/josephmachado/efficient_data_processing_spark?tab=readme-ov-file)
 * [Spark testing Environment](https://github.com/emmc15/pyspark-testing-env)
+* [Bitnami package for spark](https://github.com/bitnami/containers/tree/main/bitnami/spark)
 
 1. [Apache Spark: core concepts, architecture and internals](https://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/?source=post_page-----d74464618c20--------------------------------)
 2. [https://blogs.perficient.com/2022/09/30/pyspark-coding-standards-best-practices/](https://blogs.perficient.com/2022/09/30/pyspark-coding-standards-best-practices/)
