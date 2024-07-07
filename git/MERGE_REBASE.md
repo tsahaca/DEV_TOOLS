@@ -1,7 +1,7 @@
 # Git Merge vs. Rebase vs. Squash Commit! 
 . 
 . 
-[!Alt](images/git_merge_rebase.gif)
+![Git Merge vs Rebase](images/git_merge_rebase.gif)
 ## What are the differences? 
  
 When we 𝐦𝐞𝐫𝐠𝐞 𝐜𝐡𝐚𝐧𝐠𝐞𝐬 from one Git branch to another, we can use ‘git merge’ or ‘git rebase’. The diagram below shows how the two commands work. 
