@@ -3,6 +3,7 @@
 * [Efficient Data Processing in Spark](https://github.com/josephmachado/efficient_data_processing_spark?tab=readme-ov-file)
 * [Spark testing Environment](https://github.com/emmc15/pyspark-testing-env)
 * [Bitnami package for spark](https://github.com/bitnami/containers/tree/main/bitnami/spark)
+* [Creating a Spark Standalone Cluster with Docker and docker-compose(2021 update)](https://dev.to/mvillarrealb/creating-a-spark-standalone-cluster-with-docker-and-docker-compose-2021-update-6l4)
 
 1. [Apache Spark: core concepts, architecture and internals](https://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/?source=post_page-----d74464618c20--------------------------------)
 2. [https://blogs.perficient.com/2022/09/30/pyspark-coding-standards-best-practices/](https://blogs.perficient.com/2022/09/30/pyspark-coding-standards-best-practices/)
