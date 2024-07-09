@@ -8,7 +8,7 @@ MLOps is a set of operational practices to automate and standarize ML
 
 It can help companies
 * Streamline the end-to-end ML lifecycle
-* Boost data scientist's productivity
+* Boost the productivity of data scientists and ML Ops teams
 * Maintain high model accuracy
 * Enhance security and compliance
 
