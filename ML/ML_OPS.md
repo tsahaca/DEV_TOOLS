@@ -1,5 +1,5 @@
 # What is ML Ops
-MLOps is a set of operational practices to automate and standarize ML
+MLOps is a set of operational practices to automate and standarize ML model
 * building
 * training
 * deployment
