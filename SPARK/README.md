@@ -1,4 +1,5 @@
 # Apache Spark Cheatsheet
+* [Use Apache Iceberg in a data lake to support incremental data processing](https://aws.amazon.com/blogs/big-data/use-apache-iceberg-in-a-data-lake-to-support-incremental-data-processing/)
 * [Easy way setting up apache spark master, workers and jupyterlab with docker-compose](https://medium.com/@leodrl9/easy-way-setting-up-apache-spark-master-workers-and-jupyterlab-with-docker-compose-ee267d431b5d)
 * [Efficient Data Processing in Spark](https://github.com/josephmachado/efficient_data_processing_spark?tab=readme-ov-file)
 * [Spark testing Environment](https://github.com/emmc15/pyspark-testing-env)
