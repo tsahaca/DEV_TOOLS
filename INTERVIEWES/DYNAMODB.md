@@ -89,3 +89,45 @@ This allows for efficient data retrieval and management, leveraging S3's capabil
 - **Application Changes:** Modify your application to interact with DynamoDB, considering differences in query capabilities and optimization strategies.
 
 These questions and answers cover a broad range of topics, from basic concepts to more advanced and practical scenarios, providing a comprehensive understanding of DynamoDB for interview preparation.
+
+### Use Cases of DynamoDB Global Secondary Indexes (GSI) and Local Secondary Indexes (LSI)
+
+#### Global Secondary Indexes (GSI)
+
+**Use Case 1: Querying on Non-Primary Key Attributes**
+- **Scenario:** You have an e-commerce application where the primary key is `OrderID`, but you frequently need to query orders by `CustomerID`.
+- **Solution:** Create a GSI with `CustomerID` as the partition key and `OrderDate` as the sort key. This allows you to efficiently query orders by customer.
+
+**Use Case 2: Supporting Multiple Query Patterns**
+- **Scenario:** In a content management system, articles are primarily identified by `ArticleID`, but you also need to query articles by `AuthorID` and `PublishDate`.
+- **Solution:** Create a GSI with `AuthorID` as the partition key and `PublishDate` as the sort key. This allows for efficient queries to retrieve articles written by a specific author within a certain date range.
+
+**Use Case 3: Maintaining Materialized Views**
+- **Scenario:** In a social media application, you store posts with `UserID` as the partition key and `PostID` as the sort key, but you also want to provide a global feed sorted by `CreationTime`.
+- **Solution:** Create a GSI with `CreationTime` as the partition key and `PostID` as the sort key. This enables you to quickly retrieve the latest posts across all users.
+
+**Use Case 4: Handling Sparse Indexes**
+- **Scenario:** You have a table storing various types of transactions, but only a subset of these transactions includes a `RefundDate`.
+- **Solution:** Create a GSI with `RefundDate` as the partition key. Only the items with a `RefundDate` attribute will appear in the GSI, making it easy to query all refunded transactions.
+
+#### Local Secondary Indexes (LSI)
+
+**Use Case 1: Enabling Efficient Range Queries**
+- **Scenario:** In an order management system, orders are stored with `CustomerID` as the partition key and `OrderID` as the sort key. You need to query orders by `OrderDate` within a specific `CustomerID`.
+- **Solution:** Create an LSI with `OrderDate` as the sort key. This allows you to efficiently query and retrieve orders within a date range for a particular customer.
+
+**Use Case 2: Supporting Multiple Sort Keys for the Same Partition Key**
+- **Scenario:** In a logging system, log entries are stored with `ApplicationID` as the partition key and `LogID` as the sort key. You need to query logs by `LogLevel` within the same application.
+- **Solution:** Create an LSI with `LogLevel` as the sort key. This enables you to query logs based on their level (e.g., ERROR, WARN, INFO) within a specific application.
+
+**Use Case 3: Optimizing Read Performance for Specific Queries**
+- **Scenario:** You have a table of user activities with `UserID` as the partition key and `ActivityID` as the sort key. You need to frequently retrieve activities by `ActivityType` within a user.
+- **Solution:** Create an LSI with `ActivityType` as the sort key. This improves the performance of queries that retrieve user activities filtered by activity type.
+
+**Use Case 4: Reducing Data Duplication and Query Costs**
+- **Scenario:** In a task management system, tasks are stored with `ProjectID` as the partition key and `TaskID` as the sort key. You also need to query tasks by `DueDate` within the same project.
+- **Solution:** Create an LSI with `DueDate` as the sort key. This avoids the need to duplicate task data in a separate table for due date queries, reducing storage costs and maintaining data consistency.
+
+### Conclusion
+
+Global Secondary Indexes (GSI) and Local Secondary Indexes (LSI) are powerful features in DynamoDB that allow you to create additional access patterns without duplicating data. GSIs are ideal for enabling queries on non-primary key attributes and supporting multiple query patterns across the entire table, while LSIs are best for adding additional sort keys to enable efficient range queries and filtering within a specific partition key. By strategically using GSIs and LSIs, you can significantly enhance the performance and flexibility of your DynamoDB-based applications.
