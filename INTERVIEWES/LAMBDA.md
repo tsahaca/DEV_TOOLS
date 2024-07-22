@@ -92,3 +92,124 @@
 - **Solution:** Use AWS Step Functions to define the workflow as a series of states, each triggering a Lambda function for each step. Step Functions manage the execution flow, including retries, error handling, and state transitions, ensuring a reliable and scalable order processing system.
 
 These questions and answers cover a broad range of topics, from basic concepts to more advanced and practical scenarios, providing a comprehensive understanding of AWS Lambda for interview preparation.
+
+Creating an AWS Lambda layer with TypeScript involves several steps, including setting up your TypeScript project, packaging the dependencies, and deploying the layer to AWS. Here's a step-by-step guide to accomplish this:
+
+### Step 1: Set Up Your TypeScript Project
+
+1. **Initialize a New Node.js Project:**
+   ```bash
+   mkdir lambda-layer-typescript
+   cd lambda-layer-typescript
+   npm init -y
+   ```
+
+2. **Install TypeScript and Other Dependencies:**
+   ```bash
+   npm install typescript @types/node --save-dev
+   ```
+
+3. **Create `tsconfig.json` for TypeScript Configuration:**
+   ```json
+   {
+     "compilerOptions": {
+       "target": "ES6",
+       "module": "commonjs",
+       "outDir": "dist",
+       "rootDir": "src",
+       "strict": true,
+       "esModuleInterop": true
+     },
+     "include": ["src/**/*.ts"],
+     "exclude": ["node_modules"]
+   }
+   ```
+
+4. **Create Your TypeScript Code:**
+   - Create a directory structure:
+     ```bash
+     mkdir -p src/layer
+     ```
+   - Add a TypeScript file, e.g., `index.ts` in `src/layer`:
+     ```typescript
+     export const handler = async (event: any = {}): Promise<any> => {
+       console.log("Hello from Lambda Layer with TypeScript!");
+       return {
+         statusCode: 200,
+         body: JSON.stringify({
+           message: "Hello from Lambda Layer with TypeScript!",
+         }),
+       };
+     };
+     ```
+
+### Step 2: Compile TypeScript Code
+
+Compile the TypeScript code to JavaScript:
+```bash
+npx tsc
+```
+
+The compiled JavaScript files will be in the `dist` directory.
+
+### Step 3: Prepare the Layer Package
+
+1. **Create a Directory for the Layer:**
+   ```bash
+   mkdir -p layer/nodejs
+   ```
+
+2. **Copy the Compiled Code and Dependencies to the Layer Directory:**
+   ```bash
+   cp -r dist/* layer/nodejs/
+   cp package.json package-lock.json layer/nodejs/
+   cd layer/nodejs
+   npm install --production
+   cd ../..
+   ```
+
+### Step 4: Create the Layer ZIP File
+
+Package the layer contents into a zip file:
+```bash
+cd layer
+zip -r layer.zip nodejs
+cd ..
+```
+
+### Step 5: Deploy the Layer to AWS
+
+1. **Upload the Layer Using AWS CLI:**
+   ```bash
+   aws lambda publish-layer-version \
+     --layer-name my-typescript-layer \
+     --description "A Lambda layer with TypeScript" \
+     --zip-file fileb://layer/layer.zip \
+     --compatible-runtimes nodejs14.x nodejs16.x
+   ```
+
+   Replace `my-typescript-layer` with your desired layer name and specify the compatible Node.js runtime versions.
+
+2. **Note the Layer ARN:**
+   The output will include the Layer Version ARN (e.g., `arn:aws:lambda:region:account-id:layer:my-typescript-layer:1`).
+
+### Step 6: Use the Layer in Your Lambda Function
+
+1. **Create or Update Your Lambda Function to Use the Layer:**
+   - In the AWS Management Console, go to your Lambda function.
+   - In the "Layers" section, click "Add a layer".
+   - Choose "Custom layers".
+   - Select your layer and version.
+
+2. **Alternatively, Use AWS CLI to Update Lambda Configuration:**
+   ```bash
+   aws lambda update-function-configuration \
+     --function-name my-lambda-function \
+     --layers arn:aws:lambda:region:account-id:layer:my-typescript-layer:1
+   ```
+
+   Replace `my-lambda-function` with the name of your Lambda function.
+
+### Conclusion
+
+You have successfully created and deployed an AWS Lambda layer with TypeScript. You can now use this layer in your Lambda functions to share common code and dependencies.
