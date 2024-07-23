@@ -1,6 +1,6 @@
 Scrum ceremonies, also known as Scrum events, are structured meetings in the Scrum framework that help teams manage their work efficiently and transparently. Here are the key Scrum ceremonies:
 ### Common Events in all
-The one common activity that happens in all Scrum events is inspection and adaptation. This is a core principle of Scrum and is embedded in each of the Scrum ceremonies to ensure continuous improvement and alignment with goals. Here's how inspection and adaptation manifest in each Scrum event:
+The one common activity that happens in all Scrum events is **inspection and adaptation**. This is a core principle of Scrum and is embedded in each of the Scrum ceremonies to ensure continuous improvement and alignment with goals. Here's how inspection and adaptation manifest in each Scrum event:
 
 
 1. **Sprint Planning:**
