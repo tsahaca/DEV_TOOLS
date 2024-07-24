@@ -3,3 +3,5 @@
 2. [Secure API Access with Amazon Cognito Federated Identities, Amazon Cognito User Pools, and Amazon API Gateway](https://aws.amazon.com/blogs/compute/secure-api-access-with-amazon-cognito-federated-identities-amazon-cognito-user-pools-and-amazon-api-gateway/)
 3. [I'm in InfoSec - Scale Permissions Management With Attribute-based Access Control (Level 300)
 ](https://www.youtube.com/watch?v=J_XQ8cBWm1M&t=933s)
+4. [https://www.youtube.com/watch?v=VEE19ER5QxE&t=1s](https://www.youtube.com/watch?v=VEE19ER5QxE&t=1s)
+
