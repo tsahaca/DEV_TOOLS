@@ -4,4 +4,5 @@
 3. [I'm in InfoSec - Scale Permissions Management With Attribute-based Access Control (Level 300)
 ](https://www.youtube.com/watch?v=J_XQ8cBWm1M&t=933s)
 4. [https://www.youtube.com/watch?v=VEE19ER5QxE&t=1s](https://www.youtube.com/watch?v=VEE19ER5QxE&t=1s)
+5. [Amazon Cognito User Pools New Console Walkthrough](https://www.youtube.com/watch?v=WgvVxKf2CFc&t=61s)
 
