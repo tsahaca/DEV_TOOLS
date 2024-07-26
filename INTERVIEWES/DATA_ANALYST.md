@@ -1,16 +1,5 @@
 # DATA ANALYST
 
-Certainly! Below is a draft of a resume for an AWS Solutions Architect with an emphasis on roles such as Business Data Analyst, Data Strategist, and Data Owner.
-
----
-
-**[Your Name]**  
-[Your Address]  
-[City, State, ZIP]  
-[Your Email] | [Your Phone Number] | [LinkedIn Profile]
-
----
-
 ### Professional Summary
 
 Innovative AWS Solutions Architect with over 15 years of experience in designing, implementing, and managing complex data-driven solutions in the financial services industry. Expert in business data analysis, data strategy, and data ownership, with a strong focus on enhancing data lifecycle management, integration, and visualization. Proven track record of improving operational efficiency, driving cost savings, and ensuring data quality through robust cloud-based solutions.
