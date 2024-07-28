@@ -12,7 +12,7 @@
 
 4. **Settlement**: Actual exchange of funds and securities occurs during settlement. This can involve the transfer of money from the buyer to the seller and the transfer of securities from the seller to the buyer.
 
-****MYCOM integrated settlements with BBH for all instruments. BBH send MT messages to SWIFT networks for settlements
+MYCOM integrated settlements with BBH for all instruments. BBH send MT messages to SWIFT networks for settlements
 
 5. **Recording**: Once settlement is complete, the trade is recorded in the books of both parties and updated in relevant financial records and systems.
 
