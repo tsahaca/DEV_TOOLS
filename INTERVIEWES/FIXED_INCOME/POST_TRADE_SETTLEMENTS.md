@@ -6,21 +6,21 @@
 2. **Confirmation**: Both parties involved in the trade (buyer and seller) receive a confirmation detailing the terms of the trade, including price, quantity, and settlement date.
 
 
-****MYCOM implemented confirmation application integrated with DTCC. Coverage of this app is Fixed Income and Equity trades
+**MYCOM** implemented confirmation application integrated with DTCC. Coverage of this app is Fixed Income and Equity trades
 
 3. **Clearing**: This involves validating the trade details, ensuring that both parties have the necessary funds or securities to complete the transaction.
 
 4. **Settlement**: Actual exchange of funds and securities occurs during settlement. This can involve the transfer of money from the buyer to the seller and the transfer of securities from the seller to the buyer.
 
-MYCOM integrated settlements with BBH for all instruments. BBH send MT messages to SWIFT networks for settlements
+**MYCOM** integrated settlements with BBH for all instruments. BBH send MT messages to SWIFT networks for settlements
 
 5. **Recording**: Once settlement is complete, the trade is recorded in the books of both parties and updated in relevant financial records and systems.
 
-MYCOM get ack nak messages from BBH after settlements completed 
+**MYCOM** get ack nak messages from BBH after settlements completed 
 
 6. **Reconciliation**: This step involves verifying that all parties involved (traders, brokers, clearing houses) have accurately recorded the trade and settlement details.
 
-MYCOM build custome recons as EOD process
+**MYCOM** build custome recons as EOD process
 
 7. **Reporting**: Regulatory bodies and market participants may require reporting of trades and settlement details for transparency and compliance purposes.
 
