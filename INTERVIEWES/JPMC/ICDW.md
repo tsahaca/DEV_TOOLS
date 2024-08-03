@@ -70,6 +70,7 @@ Data sets in credit and debit card products typically include a wide range of in
 
 These data sets are often integrated and analyzed using advanced data analytics techniques to gain insights, enhance customer experience, and drive business growth.
 
+## Design Data Warehouse
 Designing a data warehouse for credit and debit card products involves creating a schema that effectively organizes and manages the various data sets related to transactions, cardholders, accounts, and other relevant information. Below is a conceptual design of a data warehouse schema using a star schema approach, which includes fact and dimension tables.
 
 ### Star Schema Design
